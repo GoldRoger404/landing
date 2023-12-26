@@ -23,8 +23,7 @@ main{
     margin:40px 40px 40px 40px;
     justify-content: center;
     align-items: center;
-    height: 100%;
-    box-sizing: border-box;
+    box-sizing: content-box;
 }
 .wrapper{
 
