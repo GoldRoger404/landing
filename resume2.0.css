@@ -25,11 +25,6 @@ main{
     align-items: center;
     box-sizing: content-box;
 }
-.pdf{
-      width: 1000px;
-      height: 2000px;
-      object-fit: contain;
-}
 .top-section{
     padding-top:70px;
     padding-left: 11%;
@@ -140,9 +135,6 @@ img{
 }
 .bright{
     color: #997a7a;
-}
-footer{
-    height: 100px;
 }
 @media(max-width:1040px){
     .wrapper{
